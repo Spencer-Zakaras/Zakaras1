@@ -1,0 +1,15 @@
+C:\Users\SZak1\OneDrive\Desktop\Object Oriented Programming CSC 346\CSC 346 Programs\Zakaras1\Zakaras1\bin\Debug\net7.0\Zakaras1.exe
+C:\Users\SZak1\OneDrive\Desktop\Object Oriented Programming CSC 346\CSC 346 Programs\Zakaras1\Zakaras1\bin\Debug\net7.0\Zakaras1.deps.json
+C:\Users\SZak1\OneDrive\Desktop\Object Oriented Programming CSC 346\CSC 346 Programs\Zakaras1\Zakaras1\bin\Debug\net7.0\Zakaras1.runtimeconfig.json
+C:\Users\SZak1\OneDrive\Desktop\Object Oriented Programming CSC 346\CSC 346 Programs\Zakaras1\Zakaras1\bin\Debug\net7.0\Zakaras1.dll
+C:\Users\SZak1\OneDrive\Desktop\Object Oriented Programming CSC 346\CSC 346 Programs\Zakaras1\Zakaras1\bin\Debug\net7.0\Zakaras1.pdb
+C:\Users\SZak1\OneDrive\Desktop\Object Oriented Programming CSC 346\CSC 346 Programs\Zakaras1\Zakaras1\obj\Debug\net7.0\Zakaras1.csproj.AssemblyReference.cache
+C:\Users\SZak1\OneDrive\Desktop\Object Oriented Programming CSC 346\CSC 346 Programs\Zakaras1\Zakaras1\obj\Debug\net7.0\Zakaras1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SZak1\OneDrive\Desktop\Object Oriented Programming CSC 346\CSC 346 Programs\Zakaras1\Zakaras1\obj\Debug\net7.0\Zakaras1.AssemblyInfoInputs.cache
+C:\Users\SZak1\OneDrive\Desktop\Object Oriented Programming CSC 346\CSC 346 Programs\Zakaras1\Zakaras1\obj\Debug\net7.0\Zakaras1.AssemblyInfo.cs
+C:\Users\SZak1\OneDrive\Desktop\Object Oriented Programming CSC 346\CSC 346 Programs\Zakaras1\Zakaras1\obj\Debug\net7.0\Zakaras1.csproj.CoreCompileInputs.cache
+C:\Users\SZak1\OneDrive\Desktop\Object Oriented Programming CSC 346\CSC 346 Programs\Zakaras1\Zakaras1\obj\Debug\net7.0\Zakaras1.dll
+C:\Users\SZak1\OneDrive\Desktop\Object Oriented Programming CSC 346\CSC 346 Programs\Zakaras1\Zakaras1\obj\Debug\net7.0\refint\Zakaras1.dll
+C:\Users\SZak1\OneDrive\Desktop\Object Oriented Programming CSC 346\CSC 346 Programs\Zakaras1\Zakaras1\obj\Debug\net7.0\Zakaras1.pdb
+C:\Users\SZak1\OneDrive\Desktop\Object Oriented Programming CSC 346\CSC 346 Programs\Zakaras1\Zakaras1\obj\Debug\net7.0\Zakaras1.genruntimeconfig.cache
+C:\Users\SZak1\OneDrive\Desktop\Object Oriented Programming CSC 346\CSC 346 Programs\Zakaras1\Zakaras1\obj\Debug\net7.0\ref\Zakaras1.dll
